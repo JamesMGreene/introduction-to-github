@@ -1,5 +1,5 @@
 title: Introduction to GitHub
-description: If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
+description: Default branch is main. If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
 template:
   name: github-slideshow
   repo: caption-this-template
